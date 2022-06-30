@@ -1,7 +1,7 @@
 
-primeironumero=int(input("Digite o primeiro numero "))
-segundonumero=int(input("Digite o segundo numero "))
-terceironumero=int(input("Digite o terceiro numero "))
+primeironumero=int(input("Digite o primeiro numero: "))
+segundonumero=int(input("Digite o segundo numero: "))
+terceironumero=int(input("Digite o terceiro numero: "))
 
 if primeironumero == segundonumero and terceironumero == primeironumero:
     print("O menor número é ", primeironumero)
