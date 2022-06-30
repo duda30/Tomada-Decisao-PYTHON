@@ -1,3 +1,4 @@
+
 primeironumero=int(input("Digite o primeiro numero "))
 segundonumero=int(input("Digite o segundo numero "))
 terceironumero=int(input("Digite o terceiro numero "))
